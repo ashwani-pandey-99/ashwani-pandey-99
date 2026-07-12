@@ -1,142 +1,24 @@
-<div align="center">
-
-<img src="banner.svg" width="100%" alt="Ashwani Pandey Banner"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;REST+API+Developer;Spring+Boot+Developer;Open+Source+Learner;Always+Learning+New+Technologies"/>
-
-</div>
+# 💫 About Me:
+🎓 B.Tech Computer Science Student<br><br>💻 Passionate Full Stack Developer<br><br>🚀 Building scalable web applications<br><br>🌱 Currently Learning<br><br>• Java<br><br>• Spring Boot<br><br>• MERN Stack<br><br>• REST APIs<br><br>• Docker<br><br>• System Design<br><br>🎯 Looking for<br><br>• Software Development Internship<br><br>• Open Source Contributions<br><br>• Backend Development Opportunities<br><br>📫🎓 B.Tech Computer Science Student<br><br>💻 Passionate Full Stack Developer<br><br>🚀 Building scalable web applications<br><br>🌱 Currently Learning<br><br>• Java<br><br>• Spring Boot<br><br>• MERN Stack<br><br>• REST APIs<br><br>• Docker<br><br>• System Design<br><br>🎯 Looking for<br><br>• Software Development Internship<br><br>• Open Source Contributions<br><br>• Backend Development Opportunities<br><br>📫 ashwanipandey987654@gmail.com<br><br><br><br>
 
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwani-pandey99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwanipandey987654@gmail.com) 
 
-<p align="center">
-<img width="800" src="https://user-images.githubusercontent.com/74038190/213911167-25b4bc44-8c17-4f1b-a73e-1bdf58b8d0a4.gif">
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ashwani-pandey-99&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ashwani-pandey-99&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashwani-pandey-99&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<table>
-<tr>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ashwani-pandey-99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<td width="60%">
-
-## 👨‍💻 About Me
-
-🎓 B.Tech Computer Science Student
-
-💻 Passionate Full Stack Developer
-
-🚀 Building scalable web applications
-
-🌱 Currently Learning
-
-• Java
-
-• Spring Boot
-
-• MERN Stack
-
-• REST APIs
-
-• Docker
-
-• System Design
-
-🎯 Looking for
-
-• Software Development Internship
-
-• Open Source Contributions
-
-• Backend Development Opportunities
-
-📫 ashwanipandey987654@gmail.com
-
-</td>
-
-<td>
-
-<img width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</td>
-
-</tr>
-</table>
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00E5FF&animation=twinkling"/>
-
-## 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ashwani-pandey-99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ashwani-pandey-99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎨 Frontend
-
-HTML • CSS • React • Tailwind • Bootstrap
-
----
-
-## ⚙ Backend
-
-Node.js • Express • Spring Boot • REST API
-
----
-
-## 🗄 Database
-
-MongoDB • MySQL
-
----
-
-## 🛠 Tools
-
-Git • GitHub • Docker • Postman • VS Code
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani-pandey-99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</p>
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashwani-pandey-99&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ashwani-pandey99">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ashwanipandey987654@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF&animation=blinking"/>
-
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,11 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0D1117&text=Ashwani%20Pandey&fontColor=00E5FF&fontSize=58&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20MERN%20Stack&descAlignY=62"/>
+<img src="banner.svg" width="100%" alt="Ashwani Pandey Banner"/>
+
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;REST+API+Developer;Spring+Boot+Developer;Open+Source+Learner;Always+Learning+New+Technologies"/>
 
 </div>
-
 
 
 </div>

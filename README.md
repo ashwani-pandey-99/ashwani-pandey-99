@@ -2,9 +2,8 @@
 
 ### Full Stack Developer | Java Developer | MERN Stack Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Ashwani+Pandey;Java+Full+Stack+Developer;%7C+SQL+%7C+DSA;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 
 ---
 <p align="center">
@@ -21,8 +20,6 @@
 - 📫 **Email:** ashwanipandey987654@gmail.com
 
 ---
-
-
 # 🌐 Connect With Me
 
 <p>
@@ -34,8 +31,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
 
 # 💻 Tech Stack
 
@@ -94,4 +89,4 @@
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
